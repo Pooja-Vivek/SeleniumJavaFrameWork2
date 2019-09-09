@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite4">
+	<test name="Test4">
+	
+	<!-- <parameter name="MyName" value="vivek"></parameter> -->
+	
+		<classes>
+			<class name="Demo.TestNGParameterDemo" />
+		</classes>
+	</test> <!-- Test4 -->
+</suite> <!-- Suite4 -->
